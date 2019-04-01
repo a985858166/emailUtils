@@ -1,19 +1,21 @@
-#发送邮件工具类
-##使用教程
+# 发送邮件工具类
+## 使用教程
 
-###导入包
-`
+### 导入包
+
+```xml
 <dependency>
      <groupId>org.apache.commons</groupId>
      <artifactId>commons-email</artifactId>
      <version>1.5</version>
-</dependency
-`
-###导入配置文件
-####spring-context-email.xml
-####修改配置文件的发送账号信息
+</dependency>
+```
 
-###演示
+### 导入配置文件
+#### spring-context-email.xml
+#### 修改配置文件的发送账号信息
+
+### 演示
 
 
 ```java
